@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #82CEF9;
+}
+header{
+    background-color: #055879;
+    color: white;
+    text-align: center;
+}
+header nav{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+}
+header nav a{
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+}
+header .titre{
+    padding-top: 10px;
+}
+
+
+.logo{
+    text-align: center;
+    margin: 10px;
+    font-size: 15px;
+}
+
+
+.science{
+    background-color: white;
+    border-radius: 10px;
+    margin: 15px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+section .haut{
+    color: white;
+    font-size: 15px;
+    background-color: #055879;
+    padding: 10px;
+    
+}
+.btn1{
+    margin: 15px;
+}
+.btn2{
+    margin: 15px;
+}
+.btn3{
+    margin: 15px;
+}
+section .bas .btn1 .ch1{
+    background-color: #055879;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 42px;
+    padding-right: 42px;
+}
+section .bas .btn1 .ch1:hover{
+    background-color: #3aadf0;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 42px;
+    padding-right: 42px;
+}
+
+section .bas .btn2 .ch2{
+    background-color: #055879;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+section .bas .btn2 .ch2:hover{
+    background-color: #3aadf0;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+
+section .bas .btn3 .ch3{
+    background-color: #055879;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 53px;
+    padding-right: 53px;
+}
+section .bas .btn3 .ch3:hover{
+    background-color: #3aadf0;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    padding-left: 53px;
+    padding-right: 53px;
+}
+
+
+section .bas button:hover{
+    background-color: rgb(16, 99, 163);
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+}
+
+a:hover{
+    color: yellow;
+    
+}
+
